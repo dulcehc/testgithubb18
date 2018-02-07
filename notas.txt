@@ -1,0 +1,5 @@
+- no guardar bases de datos en git, porque se copian
+
+git add .  (guardar todo lo que este aquí)
+
+git add -A 
